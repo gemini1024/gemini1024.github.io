@@ -20,7 +20,7 @@ body {
     color:#9da6ac;
 }
 /*==========================================
-PRE LOADER 
+PRE LOADER
 ==========================================*/
 .preloader {
     position: fixed;
@@ -105,7 +105,7 @@ h5{
     font-size: 3rem;
     line-height: 30px;
     font-weight: 600;
-    font-family: "Myriad Pro" , sans-serif;	
+    font-family: "Myriad Pro" , sans-serif;
 }
 
 h6 {
@@ -208,7 +208,7 @@ p.description {
 /* navbar section */
 .navbar-brand>img {
     width: 70%;
-    margin-top: -12px;	
+    margin-top: -12px;
 }
 .main-menu {
     background-color: transparent;
@@ -240,8 +240,8 @@ p.description {
     color: #fff;
     border-bottom: 3px solid transparent;
 	text-transform:uppercase;
-} 
- 
+}
+
 .main-menu.tiny .navbar-nav > li.active > a {
     color: #FF3366;
 }
@@ -250,7 +250,7 @@ p.description {
     color: #E03561;
 }
 .main-menu .navbar-nav > li > a:hover {
-    color: #E03561; 
+    color: #E03561;
 }
 
 .main-menu .navbar-nav > .active > a, .main-menu .navbar-nav > .active > a:hover, .main-menu .navbar-nav > .active > a:focus {
@@ -313,7 +313,7 @@ p.bannerDescription{
     color: #fff;
     font-size: 1.8rem;
     margin-bottom: 65px;
-    line-height: 30px;	
+    line-height: 30px;
 
 }
 
@@ -370,7 +370,7 @@ p.bannerDescription{
     width: 65px;
     height: 65px;
     border-radius: 50%;
-    margin-bottom: 10px;             
+    margin-bottom: 10px;
 }
 
 .single_works_text:hover i{
@@ -407,7 +407,7 @@ p.bannerDescription{
     text-align: center;
     height: 60px;
     line-height: 60px;
-	
+
 }
 .text_deatels{
 	width:80%;
@@ -488,7 +488,7 @@ p.bannerDescription{
 /* Apps Gallery Section */
 #apps_gallery{
 	background:#3C3852;
-	
+
 }
 
 .gallery_heading_text{
@@ -515,7 +515,7 @@ p.bannerDescription{
 
 .video_text{
 	padding:150px 0;
-	
+
 }
 .video_text img{
     border-radius: 10px;
@@ -548,7 +548,7 @@ p.bannerDescription{
 	position:absolute;
 	padding:3px 10px;
 	border-radius:5px 0px 0px 5px;
-	
+
 }
 
 .top_text{
@@ -564,7 +564,7 @@ p.bannerDescription{
 
 .table_info{
     padding: 25px 0px 30px 15px;
-	width:100%;	
+	width:100%;
 }
 .info_head_text{
 	color:#585b60;
@@ -590,7 +590,7 @@ a.info_right_text{
 #testimonial{
 	background:url(../images/testbg.jpg) no-repeat scroll center center;
 	background-size:cover;
-	
+
 }
 .main_testimonial_text{
 	padding:150px 0px 50px;
@@ -608,7 +608,7 @@ a.info_right_text{
 .single_testimonial_text a{
 	color:#fff;
     padding-top: 40px;
-    display: block;	
+    display: block;
 }
 #testimonial .owl-controls{
 	margin-top:50px;
@@ -635,7 +635,7 @@ a.info_right_text{
 
 /* Download Apps Section */
 #downloadApps{
-	
+
 }
 .download_heading_text{
 	padding:60px 0px 100px 0px;
@@ -660,10 +660,10 @@ a.info_right_text{
 }
 #subscribe .subscribe_heading_text{padding: 60px 0px 100px 0px;}
 
-#subscribe .subscribe_heading_text h1{ 
+#subscribe .subscribe_heading_text h1{
 	color:#fff;
 }
-#subscribe .subscribe_heading_text p{ 
+#subscribe .subscribe_heading_text p{
 	color:#fff;
 }
 #subscribe .subcribe_form{
@@ -675,7 +675,7 @@ a.info_right_text{
     border: none;
     border-radius: 6px 0px 0px 6px;
 	outline: none;
-	font-size:20px;	
+	font-size:20px;
 }
 #subscribe .subcribe_form input[type="submit"]{
     width: 15%;
@@ -811,19 +811,19 @@ a.info_right_text{
 
 .bbgimage{
 	background-image: url(../images/bbg.jpg);
-	background-size:100% 100%;	
+	background-size:100% 100%;
 
 }
 .homepage2banner{
     padding-top: 300px;
-    padding-bottom: 400px;	
+    padding-bottom: 400px;
 }
 .hmheading-text{
 	text-align:center;
 }
 .hmheading-text h1{
 	color:#fff;
-	
+
 }
 .button a{
 	margin-left:20px;
@@ -839,8 +839,13 @@ a.info_right_text{
 
 .bbggimage{
 	background-image: url(../images/headbg.jpg);
-	background-size:100% 100%;	
-	
+	background-size:100% 100%;
+
 }
 
 
+/* sub title */
+
+.sub-title {
+    color : rgb(80,80,80);
+}
