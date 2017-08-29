@@ -17,7 +17,7 @@ body {
     color: #767676;
     -webkit-font-smoothing: antialiased;
     width: 100%;
-    color:#9da6ac;
+    color:#848e93;
 }
 /*==========================================
 PRE LOADER
@@ -847,5 +847,5 @@ a.info_right_text{
 /* sub title */
 
 .sub-title {
-    color : rgb(80,80,80);
+    color : rgb(60,60,60);
 }
